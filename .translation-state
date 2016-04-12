@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "530868d4ecb0788cfa7714a11049cd09911f598b",
+  "LastProcessedCommit": "d8b1f61f0fd03473212954ee869273a316cfa87d",
   "LastTranslatedCommit": null,
   "Items": {
     "c3b8854dbecd4ab03e46c51a23ac00461bdd7014": {
@@ -1992,7 +1992,8 @@
       "FilePathList": [
         "dsc\\overview.md",
         "dsc\\testmove\\overview.md",
-        "dsc\\testmove2\\overview.md"
+        "dsc\\testmove2\\overview.md",
+        "dsc\\testmove2\\overview-test.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.pt-br\\master\\ht\\overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.pt-br.xlf",
       "HandoffFileCommit": "fb3ecc389ed2dfa8fc58a4ad35b422d367a08860",
