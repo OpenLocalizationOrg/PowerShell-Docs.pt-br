@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dsc\testmove2\overview-test2.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/bd0dec04ca7fac2de45f4b0e2e61ab395586aaaf/dsc/testmove2/overview-test2.md) | HandedOffSuccess | [Details](#d4e485c4e2461db1b7cca67d12d1a7dd331996a655)
+ [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/fd7a1a8d7c5765afd8f53c015dd7beedf6a68e9c/dsc/partialConfigs.md) | HandedOffSuccess | [Details](#127e4f2cb6925f771c7f8695b47d421a7ddad15640)
 
 ## Item Details
-##### <a name='d4e485c4e2461db1b7cca67d12d1a7dd331996a655'></a> Source: [dsc\testmove2\overview-test2.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/bd0dec04ca7fac2de45f4b0e2e61ab395586aaaf/dsc/testmove2/overview-test2.md)
+##### <a name='127e4f2cb6925f771c7f8695b47d421a7ddad15640'></a> Source: [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/fd7a1a8d7c5765afd8f53c015dd7beedf6a68e9c/dsc/partialConfigs.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [overview-test2.b82580217442d4533cc66897b1a1a51a6f090168.pt-br.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/5f9fba3d0c9f46e7d6f2a891059dde11947155b8/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.pt-br/master/ht/overview-test2.b82580217442d4533cc66897b1a1a51a6f090168.pt-br.xlf)
-* Handoff Datetime: 2016-04-12 22:30:56
+* Handoff File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.pt-br.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/57a1f62232012b96b56ec67f8fd16db4a5657ab0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.pt-br/master/ht/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.pt-br.xlf)
+* Handoff Datetime: 2016-04-13 00:30:45
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
