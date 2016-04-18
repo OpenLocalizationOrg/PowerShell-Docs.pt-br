@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "eabfe8b0e2acbb3b9d01b2934f1df7b55730e2cb",
+  "LastProcessedCommit": "2b0179b34bb657e8969c3ce902c006a38c6372a6",
   "LastTranslatedCommit": null,
   "Items": {
     "c3b8854dbecd4ab03e46c51a23ac00461bdd7014": {
@@ -2456,17 +2456,18 @@
     },
     "5ccc3e7d7e0616822fead2254b5393cba0688039": {
       "FileHash": "5ccc3e7d7e0616822fead2254b5393cba0688039",
-      "SourceFileCommit": "eabfe8b0e2acbb3b9d01b2934f1df7b55730e2cb",
-      "SourceFilePath": "dsc\\troubleshooting.md",
+      "SourceFileCommit": "2b0179b34bb657e8969c3ce902c006a38c6372a6",
+      "SourceFilePath": "dsc\\move\\rename_troubleshooting.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "dsc\\troubleshooting.md"
+        "dsc\\troubleshooting.md",
+        "dsc\\move\\rename_troubleshooting.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.pt-br\\master\\troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.pt-br.xlf",
-      "HandoffFileCommit": "f8de0a1583e271d4bf857cef9eb764abf9fb44a3",
-      "HandoffDateTime": "2016-04-16T02:21:38.5336502Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.pt-br\\master\\rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.pt-br.xlf",
+      "HandoffFileCommit": "2fd846ef3f2e5a7c016639f2970a8a39ea14ab8a",
+      "HandoffDateTime": "2016-04-18T03:31:03.7084732Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
